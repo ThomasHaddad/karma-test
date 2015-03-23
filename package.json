@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThomasHaddad/karma-test/issues"
   },
-  "homepage": "https://github.com/ThomasHaddad/karma-test"
+  "homepage": "https://github.com/ThomasHaddad/karma-test",
+  "devDependencies": {
+    "karma": "^0.12.31"
+  }
 }
