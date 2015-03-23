@@ -1,8 +1,8 @@
 /*
- * specs/test.specs.js
+ * specs/test.spec.js
  * */
-describe('The first test with jasmine'), function () {
+describe('The first test with jasmine', function () {
     it('should be true', function () {
         expect(true).toBeTruthy();
     })
-}
+});
